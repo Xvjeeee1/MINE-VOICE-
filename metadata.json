@@ -1,0 +1,6 @@
+{
+  "name": "MineVoice",
+  "description": "Minecraft companion app featuring voice channels, text chat, image sharing, and Minecraft account linking with skins and live server status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
